@@ -118,9 +118,9 @@ Distributed Systems & Cloud Native
 
 ## 🌐 Connect With Me
 
-- 🌍 Website: [mrrashidpour.com](https://mrrashidpour.com)
+- 🌍 Website: [mrrashidpour.ir](https://mrrashidpour.ir)
 - 💼 LinkedIn: [linkedin.com/in/mrrashidpour](https://www.linkedin.com/in/mrrashidpour)
-- 📧 Email: info@mrrashidpour.com
+- 📧 Email: info@mrrashidpour.ir
 
 ---
 
