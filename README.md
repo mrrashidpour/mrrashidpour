@@ -27,25 +27,25 @@
 ### Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=go,php,laravel" />
+  <img src="https://skillicons.dev/icons?i=go,php,laravel,wordpress" />
 </p>
 
 ### Databases & Messaging
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postgresql,redis,mongodb,kafka" />
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql,redis,mongodb,kafka" />
 </p>
 
 ### DevOps & Cloud Native
 
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,git,github,githubactions" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,git,github,gitlab,githubactions" />
 </p>
 
 ### Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,javascript,html,css" />
+  <img src="https://skillicons.dev/icons?i=react,javascript,html,css,tailwind,bootstrap" />
 </p>
 
 ---
